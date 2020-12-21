@@ -1,0 +1,38 @@
+.personal {
+    width: 200px;
+}
+
+.personal-td {
+    text-align: center;
+    border-top: solid;
+}
+
+.phone {
+    width: 33px;
+}
+
+.location {
+    width: 40px;
+
+}
+
+.mail {
+    width: 33px;
+
+}
+
+.linkedin {
+    width: 31px;
+
+}
+
+span {
+    margin: 1% 1% 1% 1%;
+}
+
+.position {
+    border: 1px solid;
+    margin: 1% 1% 1% 1%;
+    padding: 1% 1% 1% 1%;
+    background-color: peachpuff;
+}
