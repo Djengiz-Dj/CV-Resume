@@ -10,10 +10,14 @@ li{
     background-color: #2196f3;
     color: white;
 }
-.contact{
+.DJp{
+    font-size: 19px;
+    color: white;
+}
+/* .contact{
     border-top: solid;
     border-right: solid;
-}
+} */
 .left{
     width: 40%;
     margin: 1% 1% 1% 1%;
@@ -21,10 +25,30 @@ li{
 }
 .right{
     width: 60%;
-    border-left: solid;
-    border-top: solid;
     margin: 1% 1% 1% 1%;
     padding: 1% 1% 1% 1%;
+}
+
+.workBG{
+    background-color: lightblue;
+}
+.LocationBG{
+    background-color: rgb(197, 197, 241);
+}
+.Street{
+    padding-bottom: 1p
+}
+.PhoneBG{
+    background-color: rgb(148, 148, 245);
+}
+.MailBG{
+background-color: rgb(105, 105, 247);
+}
+.LinkedBG{
+    background-color: rgb(74, 74, 250);
+}
+.GitHubBG{
+    background-color: rgb(47, 47, 252);
 }
 *{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -36,7 +60,7 @@ li{
 }
 .topic{
     text-align: center;
-    background-color: tomato;
+    background-color: rgb(28, 6, 151);
     color: white;
 }
 .spanEN{
@@ -50,4 +74,11 @@ li{
 }
 .responsability{
     background-color: lightcyan;
+}
+.projects{
+    text-align: center;
+}
+.hrDottet{
+    border-top:solid ;
+    width: 25%;
 }
